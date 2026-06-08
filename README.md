@@ -28,6 +28,7 @@ Dashboard được xây dựng nhằm theo dõi và đánh giá hiệu suất ki
 > Phần **Insights & Recommendations** sẽ được bổ sung ở phần tiếp theo.
 
 
+
 ## Insights
 
 ### 1. Hiệu suất kinh doanh năm 2019 vượt trội hơn năm 2018
