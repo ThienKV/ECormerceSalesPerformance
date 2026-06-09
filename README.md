@@ -39,13 +39,27 @@ Mặc dù doanh thu giảm từ **272.7K** xuống **158.8K**, số lượng bá
 
 Điều này cho thấy doanh nghiệp đã chuyển từ chiến lược tăng trưởng theo sản lượng sang tập trung vào hiệu quả kinh doanh, ưu tiên các đơn hàng và sản phẩm có biên lợi nhuận cao hơn.
 
-### 2. Doanh thu cao không đồng nghĩa với lợi nhuận cao
+### 2. Số lượng bán hàng cao không đồng nghĩa với lợi nhuận cao
 
 Năm 2018 ghi nhận doanh thu cao hơn đáng kể nhưng lợi nhuận âm, cho thấy một số sản phẩm hoặc danh mục đang tạo doanh thu lớn nhưng chưa mang lại hiệu quả tài chính.
 
+<img width="1364" height="342" alt="image" src="https://github.com/user-attachments/assets/4bbfd849-4f30-4613-a136-39c19cf4ed4b" />
+
+
 Ngược lại, năm 2019 có quy mô bán hàng nhỏ hơn nhưng tạo ra lợi nhuận tích cực và biên lợi nhuận cao hơn, phản ánh sự cải thiện trong cơ cấu sản phẩm và chiến lược bán hàng.
 
-### 3. Danh mục Clothing đóng góp tích cực vào lợi nhuận
+<img width="1364" height="342" alt="image" src="https://github.com/user-attachments/assets/d3f36d68-cb7f-4eed-8e39-e79182f2f7c0" />
+
+
+### 3. Lợi nhuận của các danh mục sản phẩm
 
 Danh mục Clothing tiếp tục là nhóm sản phẩm có doanh thu và lợi nhuận tốt trong cả hai năm. Đặc biệt trong năm 2019, nhóm này đóng vai trò quan trọng trong việc cải thiện kết quả kinh doanh chung và trở thành động lực tăng trưởng lợi nhuận của doanh nghiệp.
+
+![Uploading image.png…]()
+
+<img width="601" height="80" alt="image" src="https://github.com/user-attachments/assets/f08c0c47-59db-4c3d-a9ef-835523bac36e" />
+
+
+
+
 
