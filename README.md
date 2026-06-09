@@ -1,6 +1,6 @@
 # Dashboard Phân Tích Hiệu Suất Bán Hàng Thương Mại Điện Tử
 
-## Tổng quan
+# Tổng quan
 
 Dashboard được xây dựng nhằm theo dõi và đánh giá hiệu suất kinh doanh thương mại điện tử thông qua các chỉ số doanh thu, lợi nhuận, số lượng bán và đơn hàng. Dữ liệu được phân tích theo thời gian, danh mục sản phẩm và khu vực địa lý để hỗ trợ ra quyết định kinh doanh.
 
