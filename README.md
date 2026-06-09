@@ -78,7 +78,7 @@ Mặc dù đóng góp tỷ trọng doanh thu đáng kể, Furniture lại là da
 
 Các sản phẩm ảnh hưởng lớn nhất:
 
-[Insert bảng Profit theo Sub-Category năm 2018]
+<img width="583" height="204" alt="image" src="https://github.com/user-attachments/assets/d8399059-a305-4b64-894f-adf572bf9c0c" />
 
 Trong đó, nhóm Tables tạo ra khoản lỗ lớn nhất và gần như triệt tiêu lợi nhuận của các danh mục còn lại.
 
@@ -92,7 +92,8 @@ Năm 2018 ghi nhận:
 
 Tuy nhiên, phần lớn doanh thu đến từ các sản phẩm có biên lợi nhuận thấp hoặc âm. Điều này dẫn đến tình trạng doanh thu tăng nhưng lợi nhuận không được cải thiện tương ứng.
 
-[Insert hình Daily Profit Trend 2018]
+<img width="1330" height="337" alt="image" src="https://github.com/user-attachments/assets/2f1302a2-ac24-4e74-bb51-a14913afd19e" />
+
 
 ---
 
@@ -100,13 +101,16 @@ Tuy nhiên, phần lớn doanh thu đến từ các sản phẩm có biên lợi
 
 Khác với năm 2018, toàn bộ các tháng trong năm 2019 đều duy trì lợi nhuận dương.
 
+<img width="1361" height="338" alt="image" src="https://github.com/user-attachments/assets/c5e5546c-4f57-48d8-9f44-d11db8a97763" />
+
 Các tháng đóng góp lợi nhuận nổi bật gồm:
 
 * January
 * February
 * March
 
-[Insert hình Daily Profit Trend 2019]
+<img width="1366" height="334" alt="image" src="https://github.com/user-attachments/assets/4247a33f-445d-414f-9a72-060f79c75978" />
+
 
 #### Furniture được cải thiện đáng kể
 
